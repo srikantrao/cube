@@ -1,7 +1,7 @@
 package node
 
 // Node represents a node in the cluster
-// It is a physical representation of a Worker
+// It is a physical representation of a Worker, Manager, or Scheduler.
 // It is ANY machine in the cluster
 
 type Node struct {
